@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 4490-E91A
+
+ Directory of C:\Users\Amrutha\Desktop\kiranassignment\kiranaPractice
+
+17-12-2024  15:43    <DIR>          .
+17-12-2024  15:39    <DIR>          ..
+17-12-2024  15:43                 0 kruthik.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   7,349,170,176 bytes free
